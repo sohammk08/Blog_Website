@@ -1,5 +1,3 @@
-# TOM-S-BLOG----Blog-Website
-<h2>Single page personal blog website.</h2>
 # TOM'S-BLOG Blog-Website
 <h2>A single page personal blog website.</h2>
 Check out the page at:

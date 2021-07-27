@@ -14,8 +14,8 @@ A personal blog website.
 https://tomsblog8713.netlify.app/
 
 <h3>State</h3>
-<strong>Stable</strong>
+<strong>Complete</strong>
 
 <h3>Versions/Updates</h3>
-<li>Version-1 released</li>
-<li>Version-2 with alternate dark theme coming soon....</li>
+<li>Version-1 released.</li>
+<li>Version-2 released.</li>

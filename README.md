@@ -14,7 +14,7 @@ A personal blog website.
 https://tomsblog8713.netlify.app/
 
 <h3>State</h3>
-<strong>Complete</strong>
+<em>Complete</em>
 
 <h3>Versions/Updates</h3>
 <li>Version-1 released.</li>

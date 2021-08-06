@@ -10,7 +10,6 @@ A personal blog website.
 <h3>Check out the website at:</h3>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2efda322-bc16-4d87-b8d1-a5b2c55b8083/deploy-status)](https://app.netlify.com/sites/tomsblog8713-dark/deploys)
-https://tomsblog8713.netlify.app/
 
 https://tomsblog8713-dark.netlify.app/
 

@@ -18,4 +18,4 @@ https://tomsblog8713.netlify.app/
 
 <h3>Versions/Updates</h3>
 <li>Version-1 released.</li>
-<li>Version-2 (Alternative dark theme) released on branch 'alternative-dark_theme'.</li>
+<li>Version-2 <strong>"final"</strong> released.</li>

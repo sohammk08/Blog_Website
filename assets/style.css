@@ -25,51 +25,11 @@
   font-family: 'Nunito';
   text-transform: uppercase;
   text-align: center;
+  margin-top: -12px;
 }
 .f-row {
   display: flex;
   justify-content: center;
-}
-.bl1 {
-  display: block;
-  height: 500px;
-  width: 460px;
-  border-radius: 10px;
-  background-color: #333;
-  margin-top: 30px;
-  padding-bottom: 20px;
-  padding-right: 40px;
-}
-.bl1 img {
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  height: 350px;
-  width: 500px;
-}
-.bl1 h3,.bl1 h2, .bl1 p {
-  background: #333333;
-}
-.bl1 h3 {
-  color: #49f474;
-  font-size: 15px;
-  font-family: 'Montserrat';
-  text-align: center;
-  text-transform: uppercase;
-}
-.bl1 h2 {
-  color: #edf0f1;
-  font-family: 'Montserrat';
-  text-align: center;
-  text-transform: uppercase;
-  margin-top: -10px;
-}
-.bl1 p {
-  color: #fff;
-  font-family: 'Poppins';
-  text-align: center;
-  margin-right: -40px;
-  margin-top: -15px;
-  padding: 0px 15px 20px 15px;
 }
 .ab-author {
   width: 400px;
@@ -105,7 +65,7 @@
   margin-left: 10px;
   margin-right: 10px;
 }
-.bl1,.slider-z,.ab-author, {
+.f-row .bl,.slider-z,.ab-author, {
   display: flex;
 }
 .slider {
@@ -208,18 +168,20 @@
 .bl h3 {
   background: #333;
   color: #49f474;
-  font-size: 15px;
+  font-size: 14px;
   font-family: 'Montserrat';
+  letter-spacing: 1px;
   text-align: center;
   text-transform: uppercase;
+  margin-top: 10px;
 }
 .bl h2 {
   background: #333;
   color: #edf0f1;
   font-family: 'Poppins';
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: capitalize;
   margin-top: -10px;
 }
 .bl p {
@@ -229,6 +191,9 @@
   text-align: center;
   margin-top: -15px;
   padding: 0px 15px 0px 15px;
+}
+.f-row .bl {
+  margin-top: 30px;
 }
 .bottom-bar {
   background: #333;
@@ -246,16 +211,14 @@
   font-weight: 500;
   font-family: 'Poppins';
   text-align: center;
+  padding-top: 10px;
 }
 .spr_line {
   background: #1e1e20;
-  width: 250px;
+  width: 100px;
   height: 5px;
   border-radius: 25px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: -15px;
-  margin-bottom: 5px;
+  margin: -31px auto 15px auto;
 }
 .bottom-bar .con-info{
   background: #333;
@@ -270,9 +233,5 @@
   font-weight: 400;
   font-family: 'Poppins';
   text-align: center;
-  margin-bottom: 7px;
-}
-.con-info .el1 {
-  background: #333;
-  margin-right: 35px;
+  margin-bottom: 2px;
 }
